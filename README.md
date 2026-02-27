@@ -1,5 +1,22 @@
-# Windows-Active-Directory-Labs
-📌 Here I take you through the different work arounds while setting up, configuring and working with windows active directory domain services.
+<!-- ===================================================== -->
+<!--                PROJECT BANNER                        -->
+<!-- ===================================================== -->
+
+<h1 align="center">🏢 Windows Active Directory Enterprise Lab</h1>
+
+<p align="center">
+📌 Enterprise-style Active Directory infrastructure deployment, networking services configuration, and automation using Windows Server.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows%20Server-2019-blue?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/Active%20Directory-AD%20DS-003366?style=for-the-badge&logo=microsoft" />
+  <img src="https://img.shields.io/badge/PowerShell-Automation-012456?style=for-the-badge&logo=powershell" />
+  <img src="https://img.shields.io/badge/DHCP-Networking-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Routing%20%26%20NAT-Configured-6A0DAD?style=for-the-badge" />
+</p>
+
+---
 
 ### 📌 Overview
 This repository contains hands-on labs demonstrating the deployment, configuration, and management of a Windows Server Active Directory enterprise environment.
