@@ -5,7 +5,7 @@
 <h1 align="center">🏢 Windows Active Directory Enterprise Lab</h1>
 
 <p align="center">
-📌 Enterprise-style Active Directory infrastructure deployment, networking services configuration, and automation using Windows Server.
+Enterprise-style Active Directory infrastructure deployment, networking services configuration, and automation using Windows Server.
 </p>
 
 <p align="center">
