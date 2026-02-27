@@ -37,7 +37,9 @@ This lab establishes the foundational identity infrastructure for an enterprise 
 
 A static IP was configured on the Domain Controller to ensure stable DNS and authentication services.
 
-![Static IP Configuration](screenshots/01-static-ip-config.png)
+![Static IP Configuration](screenshots/01-static-ip-configured.png)
+
+![Adapter Layout After Config](screenshots/01.1-adapter-layout-after-config.png)
 
 ---
 
@@ -84,6 +86,8 @@ This supports least-privilege access design and structured administration.
 
 ![Admin User Creation](screenshots/05-admin-user-created.png)
 
+![Add to Admin Group](screenshots/05.1-added-user-admin-group.png)
+
 ---
 
 ## 6️⃣ Configure Domain Password Policy
@@ -116,7 +120,9 @@ Connected Windows 10 client machine to the domain environment.
 - Entered domain credentials
 - Restarted client system
 
-![Client Domain Join](screenshots/08-client-domain-join.png)
+![Windows10 Client 1](screenshots/08-windows10-client.png)
+
+![Client Domain Join](screenshots/08.1-client-domain-join.png)
 
 ---
 
@@ -124,7 +130,9 @@ Connected Windows 10 client machine to the domain environment.
 
 Confirmed client object appears inside Active Directory Users and Computers.
 
-![Client Verified in AD](screenshots/09-client-visible-in-ad.png)
+![Client Domain Name](screenshots/09-client-device-name-updated.png)
+
+![Client Verified in AD](screenshots/10-client-visible-in-ad.png)
 
 ---
 
